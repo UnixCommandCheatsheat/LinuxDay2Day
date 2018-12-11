@@ -1,5 +1,6 @@
-## USER AND GROUP INFROMATION
-
+*****************************
+USER AND GROUP INFROMATION
+*****************************
 #### lslogins - display information about known users in the system
 examples: lslogins prana
  lslogins -lg prana
