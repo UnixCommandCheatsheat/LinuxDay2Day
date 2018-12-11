@@ -4,10 +4,10 @@
   examples: lslogins prana
   lslogins -lg prana
 
-id - print real and effective user and group IDs
+#### id - print real and effective user and group IDs
 id myuser@MYDOMAIN
 examples: id prana@example.com
 
-getent - get entries from Name Service Switch libraries
+#### getent - get entries from Name Service Switch libraries
 examples: getent passwd prana
 
